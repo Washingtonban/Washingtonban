@@ -17,6 +17,7 @@ Git			████████████░░░░░░░░ 60%
 Jenkins			██████████░░░░░░░░░░ 50%
 SQL			██████░░░░░░░░░░░░░░ 30%
 RobotFramework		████████████░░░░░░░░ 60%
+Streamlit		██████████████░░░░░░ 70%
 ```
 
 ------------------------
@@ -25,3 +26,9 @@ RobotFramework		████████████░░░░░░░░ 60%
 
 Bacharel Engenharia de Controle e automação – UNIP <br>
 MBA Gestão de projetos – FUCAPI <br>
+
+## GitHub Stats
+
+<a href="https://github.com/washingtonban/washingtonban">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=washingtonban&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Washington GitHub Stats" />
+</a>
