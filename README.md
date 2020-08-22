@@ -1,6 +1,6 @@
 # Washington Barbosa de Assunção Neto
 
-![Header](https://www.linkedin.com/in/washingtonban/detail/background-image/ "Header")
+![Header](https://coverfiles.alphacoders.com/366/36684.png "Header")
 
 Desenvolvedor de software com vivência em teste, automação de teste, entrega continua (CD) e integração continua (CI). Bom conhecimento em análise de dados e experiência em projetos de Machine Learning e Data Science. Estudioso de back-end (Django e Flask).
 
